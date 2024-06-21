@@ -1,0 +1,12 @@
+UserID: 5058078733 | Time: 2024-06-21 16:47:02.429837 | Command: /bgmi | Target: https://nikhilraghav844.blogspot.com/2023/06/online-paise-kaise-kamaye-2023.html | Port: 443 | Time: 300
+Username: @nikhil8448
+Target: https://nikhilraghav844.blogspot.com/2023/06/online-paise-kaise-kamaye-2023.html
+Port: 443
+Time: 300
+
+UserID: 5058078733 | Time: 2024-06-21 16:48:17.297699 | Command: /bgmi | Target: https://nikhilraghav844.blogspot.com/2023/06/online-paise-kaise-kamaye-2023.html | Port: 443 | Time: 300
+Username: @nikhil8448
+Target: https://nikhilraghav844.blogspot.com/2023/06/online-paise-kaise-kamaye-2023.html
+Port: 443
+Time: 300
+
